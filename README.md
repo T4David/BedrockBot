@@ -48,7 +48,7 @@ Puteți obține token-ul prin autentificarea folosind aplicațiile ```Microsoft`
 
 ```js
 const options = {
-  host: 'davidtd.go.ro',
+  host: 'server.exemplu.com',
   port: 19132,
   version: '1.21.60',
   username: 'BotAutentificat'
